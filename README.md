@@ -93,6 +93,8 @@ f=f*fs/n
 plot(f,yfft)
 xlim([0,1000])
 ```
+<img width="1017" alt="Screen Shot 2020-07-19 at 9 45 07 AM" src="https://user-images.githubusercontent.com/46945617/87876631-6a65cf80-c9a7-11ea-8384-2f631e307129.png">
+
+#### Use the data cursor in the output pane to see the frequency locations.
+
 <img width="382" alt="Screen Shot 2020-07-19 at 9 45 35 AM" src="https://user-images.githubusercontent.com/46945617/87876630-69cd3900-c9a7-11ea-8105-d3d8db255081.png">
-Use the data cursor in the output pane to see the frequency locations.
-<img width="1017" alt="Screen Shot 2020-07-19 at 9 45 07 AM" src="https://user-images.githubusercontent.com/46945617/87876631-6a65cf80-c9a7-11ea-8384-2f631e307129.png"> 
