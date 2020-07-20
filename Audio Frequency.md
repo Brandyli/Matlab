@@ -1,17 +1,14 @@
 ## Project 2. - Audio Frequency
-% This project is designed to help you to wrap up the MATLAB coding skills of Day 1
-
-% Audio signals are usually composed of many different frequencies. 
-% For example, in music, the note 'middle C' has a frequency of 261.6 Hz, 
-% and most music consists of several notes (or frequencies) being played at the same time.
-% Typically, the frequencies that make up a signal are different enough that 
-% they do not interfere substantially with each other.
-% However, when a signal contains two frequencies that are close together, 
-% they can cause the signal to appear to have a 'beat' - a pulsing pattern in the amplitude.
-% In this project, you will create a signal that contains this beat phenomenon 
-% and then analyze the signal's frequency content.
-
-% fs will represent the sampling frequency of the audio signal.
+This project is designed to help you to wrap up the MATLAB coding skills of Day 1
+Audio signals are usually composed of many different frequencies. 
+For example, in music, the note 'middle C' has a frequency of 261.6 Hz, 
+and most music consists of several notes (or frequencies) being played at the same time.
+Typically, the frequencies that make up a signal are different enough that 
+they do not interfere substantially with each other.
+However, when a signal contains two frequencies that are close together, 
+they can cause the signal to appear to have a 'beat' - a pulsing pattern in the amplitude.
+In this project, you will create a signal that contains this beat phenomenon 
+and then analyze the signal's frequency content. fs will represent the sampling frequency of the audio signal.
 
 ```
 Task 1
