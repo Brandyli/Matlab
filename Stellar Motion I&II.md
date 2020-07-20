@@ -71,7 +71,6 @@ hold off
 Task 5
 % Add a legend to the plot using the array starnames
 legend(starnames)
-```
 Task 6
 %Use logical indexing to find elements that match a condition.
 movaway = starnames(speed>0)
