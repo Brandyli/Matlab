@@ -98,3 +98,7 @@ xlim([0,1000])
 #### Use the data cursor in the output pane to see the frequency locations.
 
 <img width="382" alt="Screen Shot 2020-07-19 at 9 45 35 AM" src="https://user-images.githubusercontent.com/46945617/87876630-69cd3900-c9a7-11ea-8105-d3d8db255081.png">
+
+#### Stellar Motion II
+
+In the previous project, you determined if one star's spectrum was redshifted or blueshifted, and calculated the star’s speed relative to the Earth. In this project, you will calculate all the stars' speed at once. Then you'll create the plot below.
